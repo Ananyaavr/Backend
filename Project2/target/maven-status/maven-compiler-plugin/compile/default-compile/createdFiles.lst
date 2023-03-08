@@ -1,0 +1,5 @@
+com\example\Project2\Services\HotelService.class
+com\example\Project2\Models\Hotel.class
+com\example\Project2\Controllers\HotelController.class
+com\example\Project2\Repositories\HotelRepo.class
+com\example\Project2\Project2Application.class
